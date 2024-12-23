@@ -10,7 +10,6 @@ This project was created with **Vite** to ensure fast development and optimized 
 - **React Router** for routing between pages.
 - **Lazy Loading** with `React.lazy` and `Suspense` for optimized component loading.
 - Custom **fallback loader** during page transitions.
-- Fully responsive and styled with CSS.
 
 ---
 
