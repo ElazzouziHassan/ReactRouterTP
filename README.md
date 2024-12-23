@@ -1,4 +1,4 @@
-# React Router Demo App 🚀
+# React Router 🚀
 
 A simple React app that demonstrates the use of **React Router** with lazy loading, navigation, and styled components.
 
